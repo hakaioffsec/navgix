@@ -1,6 +1,6 @@
 # navgix
 
-navgix is a multi-threaded fast golang tool that will check for nginx alias traversal vulnerabilities
+navgix is a multi-threaded golang tool that will check for nginx alias traversal vulnerabilities
 
 ## Techniques
 Currently, navgix supports 2 techniques for finding vulnerable directories (or location aliases). Those being the following:
